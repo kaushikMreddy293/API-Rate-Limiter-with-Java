@@ -1,4 +1,4 @@
-# API Limiter for A Music Application - JAMSYNC
+# API Limiter for A Music Application
 
 A music player application allows users to browse and play songs with 
 rate-limiting features based on user roles, offering a seamless listening 
